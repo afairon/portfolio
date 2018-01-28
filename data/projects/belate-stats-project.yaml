@@ -1,0 +1,11 @@
+modalID: 2
+title: BeLate
+subdescription: Dashboard and APIs are built on top of GoLang. MongoDB is used as a database and memcached as a distributed memory caching system for statistics. On the front end, Bootstrap 4 is used as CSS framework and Babel is used as a compiler for ES6.
+subtitle: Dashboard for statistical studies
+date: 2017-08-21
+img: belate.png
+preview: belate-preview.png
+client: BeLate
+clientLink: "https://www.belate.be/"
+category: Web Development
+description: Dashboard and APIs are built on top of GoLang. MongoDB is used as a database and memcached as a distributed memory caching system for statistics. On the front end, Bootstrap 4 is used as CSS framework and babel is used as a compiler for ES6.

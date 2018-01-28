@@ -1,0 +1,11 @@
+modalID: 1
+title: Gate Station (Weladee)
+subdescription: Embedded web application recording employee attendance. Web server is built on top of GoLang. Semantic UI is used as CSS framework and ReactJS is used for building user interfaces. All ES6 code is compiled by Babel and packed by Webpack.
+subtitle: Smart attendance system
+date: 2017-06-22
+img: weladee.png
+preview: raspberry-preview.png
+client: Weladee
+clientLink: "https://www.weladee.com/"
+category: Web Development
+description: WELADEE is an attendance system gather information of working presence of employees who can record time attendance from mobile phone or using key tag.
